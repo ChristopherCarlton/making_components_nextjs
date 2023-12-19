@@ -17,7 +17,6 @@ const ProfileDropdown: React.FC = () => {
         <div className="flex items-center justify-between p-4 border-b border-gray-600">
           <div className="flex items-center">
             <img
-            //   src="/profile-thumbnail.png"
               src="/images/sideProfile.png"
               alt="Chris Moulton profile thumbnail"
               className="w-[32px] h-[32px] rounded-full"
