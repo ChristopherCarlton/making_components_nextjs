@@ -1,11 +1,14 @@
 import * as React from "react";
 import { FaHeart, FaRegClock } from "react-icons/fa";
 import { CiStar } from "react-icons/ci";
+import ComHeader from "./comheader";
 
 
 export default function community(): React.ReactElement {
   return (
+
     <div className="bg-[#010101] p-8">
+      <ComHeader/>
       <h1 className="text-white font-roboto text-4xl mb-6">
         Community Showcase
       </h1>
