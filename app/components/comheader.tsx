@@ -44,7 +44,6 @@ export default function comHeader() {
 
 
 
-
           <div className="flex space-x-4 items-center">
             {/* Centered the buttons using the 'flex' and 'space-x-4' classes */}
             <div className="flex space-x-4 items-center">
